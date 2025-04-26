@@ -18,6 +18,7 @@ The main highlight of my GitHub is the **[INTEX Project: Entertainment Agency We
 
 The majority of my other repositories come from my **Enterprise Web Application Development** course, where we focused on building modern apps using **.NET Core** and **React**. These projects strengthened my skills in full-stack architecture, API development, and frontend design patterns.
 
+<br>
 ---
 <br>
 
@@ -28,6 +29,7 @@ The majority of my other repositories come from my **Enterprise Web Application 
 - **Tools:** Azure, GitHub, Visual Studio Code, Postman, SSMS  
 - **Concepts:** REST APIs, full-stack development, Git workflows
 
+<br>
 ---
 <br>
 
@@ -35,9 +37,12 @@ The majority of my other repositories come from my **Enterprise Web Application 
 
 I'm passionate about collaborative development and bringing ideas to life through code. In the future, I hope to upload some of my machine learning pipelines and models here. I love hiking and anything outdoors.
 
+<br>
 ---
 <br>
 
 ## 🔗 Explore My Work
 
 [**👉 View All Repositories on GitHub**](https://github.com/Mjpalm13?tab=repositories)
+
+<br>
