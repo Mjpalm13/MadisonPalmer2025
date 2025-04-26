@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="me.jpeg" alt="Madison Palmer" width="180" style="border-radius: 50%;">
+</p>
+
+
 Welcome to my GitHub portfolio!  
 
 I’m a Business Information Systems student at BYU with a passion for web development, machine learning, data, and clean design.
