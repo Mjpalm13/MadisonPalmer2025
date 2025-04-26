@@ -1,4 +1,5 @@
 Welcome to my GitHub portfolio!  
+
 I’m a Business Information Systems student at BYU with a passion for web development, machine learning, data, and clean design.
 
 ---
