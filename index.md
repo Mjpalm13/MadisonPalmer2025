@@ -1,9 +1,9 @@
-<table>
+<table style="border: none;">
   <tr>
-    <td width="180">
+    <td width="180" style="border: none;">
       <img src="me.jpeg" alt="Madison Palmer" width="160" style="border-radius: 12px;">
     </td>
-    <td>
+    <td style="border: none;">
       <p>
         <strong>Welcome to my GitHub portfolio!</strong><br>
         I’m a Business Information Systems student at BYU with a passion for web development, machine learning, data, and clean design.
