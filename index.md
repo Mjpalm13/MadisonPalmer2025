@@ -1,6 +1,6 @@
 <img src="me.jpeg" alt="Madison Palmer" width="160" align="left" style="border-radius: 12px; margin-right: 20px; margin-bottom: 0px;">
 
-<strong>Welcome to my GitHub portfolio!</strong>  
+<strong>Welcome to my GitHub portfolio!</strong>  <br/>
 I’m a Business Information Systems student at BYU with a minor in Statistics. I have a passion for web development, machine learning, data, and clean design.
 
 <div style="clear: both;"></div>
