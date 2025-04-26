@@ -10,7 +10,7 @@ I’m a Business Information Systems student at BYU with a minor in Statistics. 
 <br>
 
 ---
-
+<br>
 
 ## 📁 Projects & Repositories
 
@@ -19,7 +19,7 @@ The main highlight of my GitHub is the **[INTEX Project: Entertainment Agency We
 The majority of my other repositories come from my **Enterprise Web Application Development** course, where we focused on building modern apps using **.NET Core** and **React**. These projects strengthened my skills in full-stack architecture, API development, and frontend design patterns.
 
 ---
-
+<br>
 
 ## 🔧 Technologies I Work With
 
@@ -29,13 +29,14 @@ The majority of my other repositories come from my **Enterprise Web Application 
 - **Concepts:** REST APIs, full-stack development, Git workflows
 
 ---
-
+<br>
 
 ## 🌴 A Little More About Me
 
 I'm passionate about collaborative development and bringing ideas to life through code. In the future, I hope to upload some of my machine learning pipelines and models here. I love hiking and anything outdoors.
 
 ---
+<br>
 
 ## 🔗 Explore My Work
 
