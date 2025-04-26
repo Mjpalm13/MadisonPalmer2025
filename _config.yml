@@ -1,8 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
 
 title: Madison Palmer
 description: Full-stack developer • BYU IS Student
-show_downloads: false
-github:
-  is_project_page: false
-  repository_url: https://github.com/Mjpalm13?tab=repositories
