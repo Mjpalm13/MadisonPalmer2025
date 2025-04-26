@@ -1,11 +1,11 @@
-<img src="me.jpeg" alt="Madison Palmer" width="160" align="left" style="border-radius: 12px; margin-right: 20px; margin-bottom: 10px;">
+<img src="me.jpeg" alt="Madison Palmer" width="160" align="left" style="border-radius: 12px; margin-right: 20px; margin-bottom: 0px;">
 
-
+<p>
 Welcome to my GitHub portfolio!  
-
 I’m a Business Information Systems student at BYU with a passion for web development, machine learning, data, and clean design.
+</p>
 
-
+<div style="clear: both;"></div>
 
 ---
 
