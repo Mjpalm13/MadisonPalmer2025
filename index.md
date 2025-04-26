@@ -15,7 +15,7 @@ I’m a Business Information Systems student at BYU with a minor in Statistics. 
 
 ## 📁 Projects & Repositories
 
-The main highlight of my GitHub is the **[INTEX Project: Entertainment Agency Web App](https://github.com/mjpalmer13/Intex1_15)** — a full-stack application built with React and ASP.NET Core, deployed on Azure. It was the capstone project for my BYU Information Systems Junior Core experience and showcases a complete product cycle from database design to UI deployment.
+The main highlight of my GitHub is the **[INTEX Project: Entertainment Agency Web App](https://github.com/Mjpalm13/Intex1_15)** — a full-stack application built with React and ASP.NET Core, deployed on Azure. It was the capstone project for my BYU Information Systems Junior Core experience and showcases a complete product cycle from database design to UI deployment.
 
 The majority of my other repositories come from my **Enterprise Web Application Development** course, where we focused on building modern apps using **.NET Core** and **React**. These projects strengthened my skills in full-stack architecture, API development, and frontend design patterns.
 
