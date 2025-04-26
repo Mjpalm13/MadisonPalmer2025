@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="me.jpeg" alt="Madison Palmer" width="180" style="border-radius: 50%;">
-</p>
-
+<img src="me.jpeg" alt="Madison Palmer" width="160" align="left" style="border-radius: 12px; margin-right: 20px; margin-bottom: 10px;">
 
 Welcome to my GitHub portfolio!  
 
