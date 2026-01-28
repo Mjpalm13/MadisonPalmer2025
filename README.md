@@ -2,10 +2,6 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Site Link: https://mjpalm13.github.io/MadisonPalmer2025
 
 </header>
-
-<!--
- Site link: 
--->
